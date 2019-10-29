@@ -7,7 +7,7 @@
  * Description: File include all Microcontroller libraries
  *
  * Author: Mohamed Tarek
- *
+ * Editor: Mohamed Alaa
  *******************************************************************************/
 
 #ifndef MICRO_CONFIG_H_

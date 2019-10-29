@@ -6,8 +6,8 @@
  *
  * Description: types for AVR
  *
- * Author: Mohamed Tarek
- *
+ * Author : Mohamed Tarek
+ * Editor : Mohamed Alaa
  *******************************************************************************/
 
 #ifndef STD_TYPES_H_
